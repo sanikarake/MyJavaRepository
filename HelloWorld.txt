@@ -1,0 +1,6 @@
+Class HelloWorld{
+main()
+{
+System.out.println("HELLO");
+}
+}
